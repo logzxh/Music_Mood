@@ -68,7 +68,7 @@ pydantic_core==2.33.2
 pydub==0.25.1
 Pygments==2.19.1
 pymongo==4.13.0
-pypiwin32==223
+# pypiwin32==223
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
 pyttsx3==2.98
